@@ -31,7 +31,7 @@
             <th>Nombre</th>
             <th>Apellido</th>
             <th>Edad</th>
-            <th>Acciones</th>
+            <th>Accione</th>
         </tr>
         <?php
         // Conexión a la base de datos
